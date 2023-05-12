@@ -13,7 +13,7 @@
   "tokens": [
     {
       "name": "Kyborg Exchange",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "address": "0xfa10aE45a46C66168e8EFc47875f641a6C9E73Eb",
       "symbol": "KYBORG",
       "decimals": 18,
       "chainId": 42161,
