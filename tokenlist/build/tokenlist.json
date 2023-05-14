@@ -1,6 +1,6 @@
 {
   "name": "Kyborg Token List",
-  "logoURI": "https://raw.githubusercontent.com/KyborgExchange/assets/main/blockchain/arbitrum/assets/0xfa10aE45a46C66168e8EFc47875f641a6C9E73Eb/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/KyborgExchange/assets/main/blockchain/arbitrum/assets/0x55b32714963b7bb249DC21FC21410DE12a4A3c61/logo.png",
   "keywords": [
     "kyborg"
   ],
@@ -17,7 +17,7 @@
       "symbol": "KYBORG",
       "decimals": 18,
       "chainId": 42161,
-      "logoURI": "https://raw.githubusercontent.com/KyborgExchange/assets/main/blockchain/arbitrum/assets/0xfa10aE45a46C66168e8EFc47875f641a6C9E73Eb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/KyborgExchange/assets/main/blockchain/arbitrum/assets/0x55b32714963b7bb249DC21FC21410DE12a4A3c61/logo.png"
     }
   ]
 }
